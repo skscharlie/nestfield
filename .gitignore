@@ -1,0 +1,18 @@
+# MacOS 시스템 파일 무시
+.DS_Store
+
+# 빌드 파일 무시
+/build
+/dist
+/node_modules
+
+# 기타 무시할 파일
+*.log
+*.env
+
+# 압축파일 무시
+*.zip
+*.tar
+*.gz
+*.bz시
+*.jar
