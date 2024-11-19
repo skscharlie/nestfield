@@ -1,0 +1,27 @@
+{
+    "connectorId" : 1,
+    "meterValue" : [
+        {
+            "timestamp" : "20240625113200",
+            "sampledValue" : [
+                {
+                    "value" : "1111"
+                },
+                {
+                    "value" : "2222"
+                }
+            ]
+        },
+        {
+            "timestamp" : "20240625113211",
+            "sampledValue" : [
+                {
+                    "value" : "3333"
+                },
+                {
+                    "value" : "4444"
+                }
+            ]
+        }
+    ]
+}

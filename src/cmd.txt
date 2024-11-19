@@ -1,0 +1,5 @@
+chargePointModel = modelNo11111
+chargePointVendor = charlie
+vendorId = nestfield
+messageId = 11111111
+data = alkdjf;akdj;fakjd;fja;dkjfakjd;fkjad;kjfalksdjfkadsj;fkajd;kjfalksdjfkadsj
